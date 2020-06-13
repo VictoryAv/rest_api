@@ -7,5 +7,87 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "products": [
+    {
+      "image":"http://picsum.photos/200/200",
+      "name":"Cheese",
+      "company":"Shish",
+      "description":"",
+      "shop":"Mania",
+      "id":1
+    },
+    {
+      "image":"http://picsum.photos/200/200",
+      "name":"Sausage",
+      "company":"Shish",
+      "description":"",
+      "shop":"777Market",
+      "id":2
+    },
+    {
+      "image":"http://picsum.photos/200/200",
+      "name":"Milk",
+      "company":"Shish",
+      "description":"",
+      "shop":"Mega",
+      "id":3
+    },
+    {
+      "image":"http://picsum.photos/200/200",
+      "name":"Toothpaste",
+      "company":"Shish",
+      "description":"",
+      "shop":"Super Farum",
+      "id":4
+    },
+    {
+      "image":"http://picsum.photos/200/200",
+      "name":"Lenses",
+      "company":"Shish",
+      "description":"",
+      "shop":"Optikana",
+      "id":5
+    },
+    {
+      "image":"http://picsum.photos/200/200",
+      "name":"Meat",
+      "company":"Shish",
+      "description":"",
+      "shop":"Super Dush",
+      "id":6
+    },
+    {
+      "image":"http://picsum.photos/200/200",
+      "name":"Dumplings",
+      "company":"Shish",
+      "description":"",
+      "shop":"Mania",
+      "id":7
+    },
+    {
+      "image":"http://picsum.photos/200/200",
+      "name":"Cucumber",
+      "company":"Shish",
+      "description":"",
+      "shop":"Tiv Tam",
+      "id":8
+    },
+    {
+      "image":"http://picsum.photos/200/200",
+      "name":"Sauce",
+      "company":"Shish",
+      "description":"",
+      "shop":"Tiv Tam",
+      "id":9
+    },
+    {
+      "image":"http://picsum.photos/200/200",
+      "name":"Ice cream",
+      "company":"Shish",
+      "description":"",
+      "shop":"Alenushka",
+      "id":10
+    }
+  ]
 }
